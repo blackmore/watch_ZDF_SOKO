@@ -29,15 +29,15 @@ class Watch < LenaParser
       text.gsub!(/…|!|\.\.\./, ".")
       text.gsub!(/^([A-Z0-9a-z]+\s*)(?:[A-Z0-9a-z]+\s*)?\n(.+)/, "\\1\n\\2<<D\n") # find dialogs 
       text.gsub!(/---/, "") #remove
-      ## Gelb  LENA
-      ## CYAN  DAVID
-      ## GRÜN  TONY
-      ## MEGENTA RAFAEL
+      # Hajo Trautzschke => yellow
+      # Jan Maybach => green
+      # Ina Zimmermann => cyan
+      # Tom Kowalski => magenta
 
-      text.gsub!(/^HANNES/i, "GELB") 
-      text.gsub!(/^Nele/i, "CYAN")
-      text.gsub!(/^JOST/i, "GRUN")
-      text.gsub!(/^CATRIN/i, "MEGENTA")
+      text.gsub!(/^HAJO/i, "GELB") 
+      text.gsub!(/^INA/i, "CYAN")
+      text.gsub!(/^JAN/i, "GRUN")
+      text.gsub!(/^TOM/i, "MEGENTA")
       # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 

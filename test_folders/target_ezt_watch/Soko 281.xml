@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- file created by nigel.blackmore@titelbild.de -->
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:tts="http://www.w3.org/2006/10/ttaf1#styling">
+  <head>
+    <styling>
+      <style xml:id="default.left" tts:fontFamily="Arial" tts:fontSize="10px" tts:textAlign="left" tts:fontStyle="normal" tts:fontWeight="normal" tts:backgroundColor="transparent" tts:color="#FFFFFF"/>
+      <style xml:id="default.center" style="default.left" tts:textAlign="center"/>
+      <style xml:id="default.right" style="default.left" tts:textAlign="right"/>
+    </styling>
+  </head>
+  <body>
+    <div>
+      <p begin="36000.00s" end="36001.50" dur="1.50s" style="default.center" tts:direction="ltr">'MISTER GREEN' </p>
+      <p begin="36001.66s" end="36004.53" dur="2.87s" style="default.center" tts:direction="ltr">Jeanet Pfitzer, Frank Koopmann, Roland Heep</p>
+      <p begin="36004.69s" end="36006.75" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Okay Spatz, nicht bummeln, ja. </span>
+      </p>
+      <p begin="36006.91s" end="36008.41" dur="1.50s" style="default.center" tts:direction="ltr">Ciao, Mama.</p>
+      <p begin="36008.57s" end="36010.07" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Paul. </span>
+      </p>
+      <p begin="36010.23s" end="36011.90" dur="1.67s" style="default.center" tts:direction="ltr">Was ist denn? Danke Mama.</p>
+      <p begin="36012.06s" end="36014.13" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Tschüss mein Schatz, viel Spaß.</span>
+      </p>
+      <p begin="36014.29s" end="36015.79" dur="1.50s" style="default.center" tts:direction="ltr">Tschüss. </p>
+      <p begin="36015.95s" end="36021.75" dur="5.80s" style="default.center" tts:direction="ltr">Du, das mit Kati und dem Baby, das wollt ich Dir eigentlich die ganze Zeit schon sagen.</p>
+      <p begin="36021.91s" end="36023.41" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ich war wütend...</span>
+      </p>
+      <p begin="36023.57s" end="36025.07" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Er atmet nicht...</span>
+      </p>
+      <p begin="36025.23s" end="36026.73" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Das darf nicht sein..</span>
+      </p>
+      <p begin="36026.89s" end="36028.39" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Morgen Hajo.</span>
+      </p>
+      <p begin="36028.55s" end="36030.05" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Was gibt's?</span>
+      </p>
+      <p begin="36030.21s" end="36031.74" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Jaja, ist kein Problem.</span>
+      </p>
+      <p begin="36031.90s" end="36033.40" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Bin gleich da.</span>
+      </p>
+      <p begin="36033.56s" end="36035.06" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Okay.</span>
+      </p>
+      <p begin="36035.22s" end="36036.72" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Tschüss.</span>
+      </p>
+      <p begin="36036.88s" end="36038.38" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Morgen.</span>
+      </p>
+      <p begin="36038.54s" end="36040.04" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Morgen. </span>
+      </p>
+      <p begin="36040.20s" end="36041.70" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Morgen.</span>
+      </p>
+      <p begin="36041.86s" end="36043.36" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Morgen. </span>
+      </p>
+      <p begin="36043.52s" end="36045.52" dur="2.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Oh, das ist ja mal was Neues. </span>
+      </p>
+      <p begin="36045.68s" end="36047.18" dur="1.50s" style="default.center" tts:direction="ltr">Ja.</p>
+      <p begin="36047.34s" end="36048.84" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Tja. </span>
+      </p>
+      <p begin="36049.00s" end="36052.13" dur="3.13s" style="default.center" tts:direction="ltr">Gottes Zoo ist groß. Das ist ne Schädelfraktur.</p>
+      <p begin="36052.29s" end="36056.89" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Sieht aus, als wurde er mit dem Kopf auf den Boden geschlagen, oder? </span>
+      </p>
+      <p begin="36057.05s" end="36058.99" dur="1.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wissen wir schon, wer es ist?</span>
+      </p>
+      <p begin="36059.15s" end="36062.41" dur="3.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Nee. Er hatte weder Handy noch Papiere bei sich. </span>
+      </p>
+      <p begin="36062.57s" end="36065.37" dur="2.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ja wo hätt er die auch hinstecken sollen. </span>
+      </p>
+      <p begin="36065.53s" end="36067.27" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Is ne komische Aufmachung.</span>
+      </p>
+      <p begin="36067.43s" end="36068.96" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Das ist ein Morphsuit. </span>
+      </p>
+      <p begin="36069.12s" end="36070.62" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ein was?</span>
+      </p>
+      <p begin="36070.78s" end="36073.05" dur="2.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Das ist ein sogenannter Morphsuit.</span>
+      </p>
+      <p begin="36073.21s" end="36078.61" dur="5.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Kommen ursprünglich aus Großbritannien, werden aber auch bei uns immer beliebter.</span>
+      </p>
+      <p begin="36078.77s" end="36080.27" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ah.</span>
+      </p>
+      <p begin="36080.43s" end="36084.23" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ah – ich les die ganze Zeitung, nicht nur den Sportteil. </span>
+      </p>
+      <p begin="36084.39s" end="36085.89" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Sehr witzig.</span>
+      </p>
+      <p begin="36086.05s" end="36091.11" dur="5.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Der Anwohner da vorne hat letzte Nacht lautes Gebrüll auf der Straße gehört.</span>
+      </p>
+      <p begin="36091.27s" end="36096.27" dur="5.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Als er zum Fenster ist, hat er zwei spacke Typen in grünen Anzügen gesehen.</span>
+      </p>
+      <p begin="36096.43s" end="36097.93" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Zwei?</span>
+      </p>
+      <p begin="36098.09s" end="36101.96" dur="3.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Na anscheinend ist der eine dem anderen hinterher gerannt.</span>
+      </p>
+      <p begin="36102.12s" end="36107.59" dur="5.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Der Zeuge hat sich nicht viel dabei gedacht, das kommt hier anscheinend öfter vor.</span>
+      </p>
+      <p begin="36107.75s" end="36110.61" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Um die Ecke ist ja die, diese alte Kantine.</span>
+      </p>
+      <p begin="36110.77s" end="36112.27" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ne Partylocation.</span>
+      </p>
+      <p begin="36112.43s" end="36113.93" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hm.</span>
+      </p>
+      <p begin="36114.09s" end="36115.59" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Da gehen wir mal hin. </span>
+      </p>
+      <p begin="36115.75s" end="36117.25" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Okay. </span>
+      </p>
+      <p begin="36117.41s" end="36121.21" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Entschuldigung. Kriminalpolizei. Kennen Sie diesen Mann? </span>
+      </p>
+      <p begin="36121.37s" end="36122.97" dur="1.60s" style="default.center" tts:direction="ltr">Oh Gott, das ist Lukas. </p>
+      <p begin="36123.13s" end="36124.73" dur="1.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Lukas – und wie weiter? </span>
+      </p>
+      <p begin="36124.89s" end="36128.43" dur="3.53s" style="default.center" tts:direction="ltr">Lukas Schneider, der studiert mit mir zusammen. Jura.</p>
+      <p begin="36128.59s" end="36130.45" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ich komm gleich nach, okay? </span>
+      </p>
+      <p begin="36130.61s" end="36132.11" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ja. </span>
+      </p>
+      <p begin="36132.27s" end="36133.81" dur="1.53s" style="default.center" tts:direction="ltr">Ja, Danke noch mal ne. </p>
+      <p begin="36133.97s" end="36135.47" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hey.</span>
+      </p>
+      <p begin="36135.63s" end="36137.13" dur="1.50s" style="default.center" tts:direction="ltr">Hi Ina. </p>
+      <p begin="36137.29s" end="36138.79" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ein Mädchen, oder?</span>
+      </p>
+      <p begin="36138.95s" end="36143.35" dur="4.40s" style="default.center" tts:direction="ltr">Ja. Luzia, 3150 Gramm. Kam gestern Abend kurz nach zehn zur Welt. </p>
+      <p begin="36143.51s" end="36145.01" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Schön.</span>
+      </p>
+      <p begin="36145.17s" end="36146.67" dur="1.50s" style="default.center" tts:direction="ltr">Ja. </p>
+      <p begin="36146.83s" end="36148.63" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ja herzlichen Glückwunsch. </span>
+      </p>
+      <p begin="36148.79s" end="36150.29" dur="1.50s" style="default.center" tts:direction="ltr">Danke. </p>
+      <p begin="36150.45s" end="36153.71" dur="3.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ich freu mich für dich. Wirklich. Mach's gut, ja?</span>
+      </p>
+      <p begin="36153.87s" end="36155.37" dur="1.50s" style="default.center" tts:direction="ltr">Ja. Tschüss. </p>
+      <p begin="36155.53s" end="36161.20" dur="5.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wir nehmen Ihre Aussagen auf und dann können Sie wieder zurück zu Ihrem Jura-Studium.</span>
+      </p>
+      <p begin="36161.36s" end="36162.86" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hm?</span>
+      </p>
+      <p begin="36163.02s" end="36166.15" dur="3.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Aber zuerst brauchen wir noch Ihre Morphsuits. </span>
+      </p>
+      <p begin="36166.31s" end="36171.11" dur="4.80s" style="default.center" tts:direction="ltr">Hmhm, und was sollen wir anziehen, sollen wir nackt rumlaufen oder was? </p>
+      <p begin="36171.27s" end="36172.94" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Nee, das muss nicht sein.</span>
+      </p>
+      <p begin="36173.10s" end="36176.30" dur="3.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Wir werden da schon was Schickes für Sie finden.</span>
+      </p>
+      <p begin="36176.46s" end="36178.33" dur="1.87s" style="default.center" tts:direction="ltr">Sind wir etwa tatverdächtig?</p>
+      <p begin="36178.49s" end="36182.55" dur="4.07s" style="default.center" tts:direction="ltr">Dann haben wir nach 140 StPo das Recht auf einen Verteidiger.</p>
+      <p begin="36182.71s" end="36187.18" dur="4.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ja, aber wir wollen ja nur ein bißchen  mit Ihnen reden, das war's.</span>
+      </p>
+      <p begin="36187.34s" end="36194.34" dur="7.00s" style="default.center" tts:direction="ltr">Außerdem steht's uns dann als Beschuldigten nach dem Grundsatz nemo tenetus se ipsum accusare frei, ob wir uns zur Sache einlassen oder nicht.</p>
+      <p begin="36194.50s" end="36196.43" dur="1.93s" style="default.center" tts:direction="ltr">136 StPo, Absatz 1, Absatz 2.</p>
+      <p begin="36196.59s" end="36199.59" dur="3.00s" style="default.center" tts:direction="ltr">Musst du immer son Arsch sein? Lukas ist tot.</p>
+      <p begin="36199.75s" end="36202.89" dur="3.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">So, sorry, froschgrün, gelb und mauve war aus. </span>
+      </p>
+      <p begin="36203.05s" end="36206.25" dur="3.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Gut, können wir dann mal? Wenn ich bitten darf. </span>
+      </p>
+      <p begin="36206.41s" end="36208.41" dur="2.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ziemlich extravagante outfits.</span>
+      </p>
+      <p begin="36208.57s" end="36212.70" dur="4.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">...mit denen Sie und Ihre Freunde da durch die Gegend laufen. </span>
+      </p>
+      <p begin="36212.86s" end="36214.36" dur="1.50s" style="default.center" tts:direction="ltr">Ja schon auffällig.</p>
+      <p begin="36214.52s" end="36218.79" dur="4.27s" style="default.center" tts:direction="ltr">Die Leute glotzen natürlich auch immer, wenn wir damit antanzen.</p>
+      <p begin="36218.95s" end="36220.45" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Wer ist wir? </span>
+      </p>
+      <p begin="36220.61s" end="36222.11" dur="1.50s" style="default.center" tts:direction="ltr">Unterschiedlich.</p>
+      <p begin="36222.27s" end="36223.77" dur="1.50s" style="default.center" tts:direction="ltr">Wechselt ständig.</p>
+      <p begin="36223.93s" end="36226.66" dur="2.73s" style="default.center" tts:direction="ltr">Da kommen Leute dazu, springen wieder ab.</p>
+      <p begin="36226.82s" end="36230.15" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Auf der Party, waren da noch mehr grüne Männchen? </span>
+      </p>
+      <p begin="36230.31s" end="36232.71" dur="2.40s" style="default.center" tts:direction="ltr">Ja, Heiko, aber der ist früher los. </p>
+      <p begin="36232.87s" end="36234.37" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Heiko und wie weiter? </span>
+      </p>
+      <p begin="36234.53s" end="36236.03" dur="1.50s" style="default.center" tts:direction="ltr">Weiß ich nicht. </p>
+      <p begin="36236.19s" end="36238.66" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Wie sieht Ihr Freund Heiko denn aus? </span>
+      </p>
+      <p begin="36238.82s" end="36240.32" dur="1.50s" style="default.center" tts:direction="ltr">Keine Ahnung.</p>
+      <p begin="36240.48s" end="36243.15" dur="2.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Schauen Sie sich die Bilder doch mal an.</span>
+      </p>
+      <p begin="36243.31s" end="36246.37" dur="3.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ist dieser Heiko irgendwo auf den Fotos drauf?</span>
+      </p>
+      <p begin="36246.53s" end="36248.03" dur="1.50s" style="default.center" tts:direction="ltr">Hier, das ist Heiko. </p>
+      <p begin="36248.19s" end="36249.69" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Sicher?</span>
+      </p>
+      <p begin="36249.85s" end="36251.35" dur="1.50s" style="default.center" tts:direction="ltr">Absolut sicher. </p>
+      <p begin="36251.51s" end="36254.11" dur="2.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und das ist Ihr Freund Lukas Schneider.</span>
+      </p>
+      <p begin="36254.27s" end="36258.07" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Der Heiko und der Lukas Schneider haben die sich gekannt?</span>
+      </p>
+      <p begin="36258.23s" end="36259.73" dur="1.50s" style="default.center" tts:direction="ltr">Ach, nicht wirklich.</p>
+      <p begin="36259.89s" end="36266.89" dur="7.00s" style="default.center" tts:direction="ltr">Heiko ist ein komischer Vogel, steht meistens alleine rum, hält sich an seinem alkoholfreien Bier fest, der redet höchstens mal mit Lisa.</p>
+      <p begin="36267.05s" end="36270.32" dur="3.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Aber an dem Abend haben Sie miteinander geredet? </span>
+      </p>
+      <p begin="36270.48s" end="36277.48" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Sie wissen nicht, wie Heiko mit Nachnamen heißt, Sie wissen nicht, wie er aussieht, aber Sie wissen, dass er harmlos ist?</span>
+      </p>
+      <p begin="36277.64s" end="36279.14" dur="1.50s" style="default.center" tts:direction="ltr">Ja.</p>
+      <p begin="36279.30s" end="36283.23" dur="3.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Haben Sie noch irgend ne Info, die uns weiterhelfen könnte?</span>
+      </p>
+      <p begin="36283.39s" end="36287.06" dur="3.67s" style="default.center" tts:direction="ltr">Ph – Heiko wohnt in nem Haus mit verwildertem Garten...</p>
+      <p begin="36287.22s" end="36292.82" dur="5.60s" style="default.center" tts:direction="ltr">ner Armee von Gartenzwergen – hat er uns erzählt, also hat er von seiner Oma geerbt.</p>
+      <p begin="36292.98s" end="36294.98" dur="2.00s" style="default.center" tts:direction="ltr">Es gibt in Deutschland zwei...</p>
+      <p begin="36295.14s" end="36297.01" dur="1.87s" style="default.center" tts:direction="ltr">online-shops für die Anzüge.</p>
+      <p begin="36297.17s" end="36300.97" dur="3.80s" style="default.center" tts:direction="ltr">Nach Leipzig und Umgebung wurden 77 Morphsuits geliefert.</p>
+      <p begin="36301.13s" end="36303.86" dur="2.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Taucht der Name Heiko da irgendwann auf? </span>
+      </p>
+      <p begin="36304.02s" end="36305.82" dur="1.80s" style="default.center" tts:direction="ltr">Nee, aber das heißt nichts.</p>
+      <p begin="36305.98s" end="36310.11" dur="4.13s" style="default.center" tts:direction="ltr">Es gibt auch ein paar Geschäfte in Leipzig, die die verkaufen.</p>
+      <p begin="36310.27s" end="36313.61" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Wer weiß, ob Heiko überhaupt sein echter Name ist.</span>
+      </p>
+      <p begin="36313.77s" end="36320.77" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Na wenn ich in soner Wurstpelle durch die Gegend rennen würde, würd ich auch nicht meinen richtigen Namen benutzen.</span>
+      </p>
+      <p begin="36320.93s" end="36326.19" dur="5.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ich zahl dir fünfzig Euro, wenn du mal mit so nem Fetzen zum Dienst erscheinst.</span>
+      </p>
+      <p begin="36326.35s" end="36333.09" dur="6.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Pass mal auf, du kriegst hundert Euro von mir, wenn du mich jemals in so nem Ding erwischen solltest.</span>
+      </p>
+      <p begin="36333.25s" end="36334.75" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Hhh – Hand drauf. </span>
+      </p>
+      <p begin="36334.91s" end="36336.41" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Der Obduktionsbericht.</span>
+      </p>
+      <p begin="36336.57s" end="36342.37" dur="5.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Der Täter hat den Kopf des Opfers mehrfach mit extremer Wucht auf den Boden geschlagen.</span>
+      </p>
+      <p begin="36342.53s" end="36347.99" dur="5.47s" style="default.center" tts:direction="ltr">Thorsten Eppler hat gerade eine Trauerfeier für seinen ermordeten Freund gepostet.</p>
+      <p begin="36348.15s" end="36351.55" dur="3.40s" style="default.center" tts:direction="ltr">In ner halben Stunde in der Nähe der alten Kantine.</p>
+      <p begin="36351.71s" end="36355.91" dur="4.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Vielleicht haben wir ja Glück und Mystery Heiko taucht da auf. </span>
+      </p>
+      <p begin="36356.07s" end="36359.41" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ich frag mich ja, wie die das mit dem Klo regeln. </span>
+      </p>
+      <p begin="36359.57s" end="36361.07" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Tja, keine Ahnung.</span>
+      </p>
+      <p begin="36361.23s" end="36364.63" dur="3.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ob die die ganze Zeit alle Schleusen dicht halten? </span>
+      </p>
+      <p begin="36364.79s" end="36368.72" dur="3.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Kannst ja mal Heiko fragen. Hm. Jetzt läuft der weg.  Halt.</span>
+      </p>
+      <p begin="36368.88s" end="36370.88" dur="2.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Hey Kermit. Wo willst du hin?.</span>
+      </p>
+      <p begin="36371.04s" end="36372.54" dur="1.50s" style="default.center" tts:direction="ltr">Sieht cool aus.</p>
+      <p begin="36372.70s" end="36375.10" dur="2.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Kowalski, ich brauch die Leitstelle.</span>
+      </p>
+      <p begin="36375.26s" end="36376.76" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ja, Kowalski hier.</span>
+      </p>
+      <p begin="36376.92s" end="36378.42" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Äh Linie 80, Richtung.</span>
+      </p>
+      <p begin="36378.58s" end="36380.08" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">.Plagwitz. Plagwitz.</span>
+      </p>
+      <p begin="36380.24s" end="36381.74" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Plagwitz. Was?</span>
+      </p>
+      <p begin="36381.90s" end="36384.30" dur="2.40s" style="default.center" tts:direction="ltr">Bitte warten. Please hold the line..</p>
+      <p begin="36384.46s" end="36385.96" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Was war das denn?</span>
+      </p>
+      <p begin="36386.12s" end="36390.79" dur="4.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Das gibt's doch nicht. Sag mal, wollen die einen verarschen oder was? </span>
+      </p>
+      <p begin="36390.95s" end="36395.21" dur="4.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Laut Leitstelle ist er hier an dieser Haltestelle ausgestiegen. </span>
+      </p>
+      <p begin="36395.37s" end="36396.87" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ich links, du rechts. </span>
+      </p>
+      <p begin="36397.03s" end="36398.53" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Okay. </span>
+      </p>
+      <p begin="36398.69s" end="36401.76" dur="3.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Herr Bender, Polizei. Machen Sie die Tür auf. </span>
+      </p>
+      <p begin="36401.92s" end="36405.12" dur="3.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Komm, wir machen uns doch hier nicht zum Affen. </span>
+      </p>
+      <p begin="36405.28s" end="36406.78" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Warte doch mal.</span>
+      </p>
+      <p begin="36406.94s" end="36408.67" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Sei doch nicht so hastig..</span>
+      </p>
+      <p begin="36408.83s" end="36410.33" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Na toll..</span>
+      </p>
+      <p begin="36410.49s" end="36414.03" dur="3.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Okay, Kermit, raus da. Miss Piggy wartet. Raus hier..</span>
+      </p>
+      <p begin="36414.19s" end="36415.69" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Kommen Sie mit. </span>
+      </p>
+      <p begin="36415.85s" end="36418.38" dur="2.53s" style="default.center" tts:direction="ltr">Nein, ich kann nicht, ich kann nicht. </p>
+      <p begin="36418.54s" end="36420.07" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ganz ruhig, kommen Sie.</span>
+      </p>
+      <p begin="36420.23s" end="36423.43" dur="3.20s" style="default.center" tts:direction="ltr">Ich kann nicht. Ich kann nicht, ich kann nicht..</p>
+      <p begin="36423.59s" end="36425.26" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Zieh das scheiß Ding aus.</span>
+      </p>
+      <p begin="36425.42s" end="36427.02" dur="1.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Alles gut, Herr Bender. </span>
+      </p>
+      <p begin="36427.18s" end="36431.05" dur="3.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">...die scheiß Mütze hier vom Kopf, komm..blödes Ding hier.</span>
+      </p>
+      <p begin="36431.21s" end="36433.01" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">MEGENTA, hör auf. Hör auf. </span>
+      </p>
+      <p begin="36433.17s" end="36434.67" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">...Ding da runter.</span>
+      </p>
+      <p begin="36434.83s" end="36437.69" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ernsthaft – hör auf. Herr Bender. Scheiße. </span>
+      </p>
+      <p begin="36437.85s" end="36440.19" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ich hab gedacht, er spielt das nur.</span>
+      </p>
+      <p begin="36440.35s" end="36444.81" dur="4.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Hab ich gemerkt. Wir brauchen einen Arzt. Kümmere dich mal um ihn. </span>
+      </p>
+      <p begin="36444.97s" end="36446.57" dur="1.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Herr Bender. Hey, komm. </span>
+      </p>
+      <p begin="36446.73s" end="36448.73" dur="2.00s" style="default.center" tts:direction="ltr">Hallo, hatten wir telefoniert?</p>
+      <p begin="36448.89s" end="36451.63" dur="2.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ja. Maybach. Sie sind seine Therapeutin? </span>
+      </p>
+      <p begin="36451.79s" end="36453.29" dur="1.50s" style="default.center" tts:direction="ltr">Ja.</p>
+      <p begin="36453.45s" end="36455.98" dur="2.53s" style="default.center" tts:direction="ltr">Danke, dass Sie mich informiert haben.</p>
+      <p begin="36456.14s" end="36459.07" dur="2.93s" style="default.center" tts:direction="ltr">Herr Bender hatte eine schwere Panikattacke.</p>
+      <p begin="36459.23s" end="36464.03" dur="4.80s" style="default.center" tts:direction="ltr">Er leidet unter einer Sozialphobie und hat Angst, das Haus zu verlassen.</p>
+      <p begin="36464.19s" end="36465.86" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Wird er wohl aber müssen.</span>
+      </p>
+      <p begin="36466.02s" end="36470.15" dur="4.13s" style="default.center" tts:direction="ltr">Herr Bender erträgt nicht, wenn ihn fremde Menschen anschauen.</p>
+      <p begin="36470.31s" end="36473.91" dur="3.60s" style="default.center" tts:direction="ltr">Er ist deshalb seit vier Jahren bei mir in Behandlung.</p>
+      <p begin="36474.07s" end="36475.57" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Gut.</span>
+      </p>
+      <p begin="36475.73s" end="36481.20" dur="5.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wenn wir ihn nicht mitnehmen können, dann würden wir uns hier mit ihm unterhalten.</span>
+      </p>
+      <p begin="36481.36s" end="36482.86" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wenn das geht.</span>
+      </p>
+      <p begin="36483.02s" end="36484.52" dur="1.50s" style="default.center" tts:direction="ltr">Ja, ich denke schon. </p>
+      <p begin="36484.68s" end="36486.41" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Halt dich mal zurück, ja. </span>
+      </p>
+      <p begin="36486.57s" end="36489.51" dur="2.93s" style="default.center" tts:direction="ltr">Heiko, das ist Herr Maybach von der Polizei.</p>
+      <p begin="36489.67s" end="36491.80" dur="2.13s" style="default.center" tts:direction="ltr">Er würde gerne mit dir sprechen.</p>
+      <p begin="36491.96s" end="36496.76" dur="4.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ähm, Herr Bender, - ist es vielleicht möglich, das Kopfteil abzunehmen? </span>
+      </p>
+      <p begin="36496.92s" end="36503.05" dur="6.13s" style="default.center" tts:direction="ltr">Wir haben das ja geübt, wenn die Angst kommt, zählen und atmen, bis sie wieder verschwindet.</p>
+      <p begin="36503.21s" end="36506.41" dur="3.20s" style="default.center" tts:direction="ltr">Du kontrollierst deine Angst und nicht sie dich.</p>
+      <p begin="36506.57s" end="36509.17" dur="2.60s" style="default.center" tts:direction="ltr">Herr Maybach wird dich nicht anschauen.</p>
+      <p begin="36509.33s" end="36513.00" dur="3.67s" style="default.center" tts:direction="ltr">Und wenn die Angst nicht verschwindet, bin ich ja hier.</p>
+      <p begin="36513.16s" end="36515.69" dur="2.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Herr Bender, ist das so okay für Sie? </span>
+      </p>
+      <p begin="36515.85s" end="36517.35" dur="1.50s" style="default.center" tts:direction="ltr">Ja. </p>
+      <p begin="36517.51s" end="36519.38" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ich hab nur ein paar Fragen.</span>
+      </p>
+      <p begin="36519.54s" end="36523.61" dur="4.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Diese Angst, das Haus zu verlassen, seit wann  haben Sie die?</span>
+      </p>
+      <p begin="36523.77s" end="36525.27" dur="1.50s" style="default.center" tts:direction="ltr">Sieben, sieben Jahre. </p>
+      <p begin="36525.43s" end="36527.23" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Und Sie leben hier allein? </span>
+      </p>
+      <p begin="36527.39s" end="36528.89" dur="1.50s" style="default.center" tts:direction="ltr">Ja.</p>
+      <p begin="36529.05s" end="36530.55" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wie funktioniert das? </span>
+      </p>
+      <p begin="36530.71s" end="36534.64" dur="3.93s" style="default.center" tts:direction="ltr">Ich ähm mache ein Fernstudium und lasse mir alles liefern. </p>
+      <p begin="36534.80s" end="36536.73" dur="1.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Und wozu dann der Morphsuit? </span>
+      </p>
+      <p begin="36536.89s" end="36538.76" dur="1.87s" style="default.center" tts:direction="ltr">Ich wollte den Himmel sehen.</p>
+      <p begin="36538.92s" end="36543.05" dur="4.13s" style="default.center" tts:direction="ltr">Der Anzug – wenn, wenn ich ihn trage, dann fühl ich mich frei.</p>
+      <p begin="36543.21s" end="36544.71" dur="1.50s" style="default.center" tts:direction="ltr">Fühl mich frei.</p>
+      <p begin="36544.87s" end="36551.87" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ihnen ist aber schon klar, dass Sie von allen angestarrt werden, wenn Sie in Ihrer Wurstpelle durch die Gegend laufen.</span>
+      </p>
+      <p begin="36552.03s" end="36556.77" dur="4.73s" style="default.center" tts:direction="ltr">Ja aber keiner kann mein Gesicht sehen, mein Gesicht kann keiner sehen.</p>
+      <p begin="36556.93s" end="36558.43" dur="1.50s" style="default.center" tts:direction="ltr">Ruhig. Atme.</p>
+      <p begin="36558.59s" end="36564.92" dur="6.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Sind Sie deshalb vor uns weggelaufen, weil Sie Angst hatten, dass wir Ihr Gesicht sehen wollen?</span>
+      </p>
+      <p begin="36565.08s" end="36568.55" dur="3.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Quatsch. Weil Sie Lukas Schneider umgebracht haben. </span>
+      </p>
+      <p begin="36568.71s" end="36570.64" dur="1.93s" style="default.center" tts:direction="ltr">Ich hab ihn nicht umgebracht.</p>
+      <p begin="36570.80s" end="36572.73" dur="1.93s" style="default.center" tts:direction="ltr">Umgebracht hab ich ihn nicht.</p>
+      <p begin="36572.89s" end="36574.83" dur="1.93s" style="default.center" tts:direction="ltr">Ich hab ihn nicht umgebracht.</p>
+      <p begin="36574.99s" end="36576.49" dur="1.50s" style="default.center" tts:direction="ltr">8, 16.</p>
+      <p begin="36576.65s" end="36580.38" dur="3.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Auf der Party haben Sie mit Lukas Schneider gesprochen. </span>
+      </p>
+      <p begin="36580.54s" end="36582.04" dur="1.50s" style="default.center" tts:direction="ltr">24, 32...</p>
+      <p begin="36582.20s" end="36584.40" dur="2.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Worum ging es dabei? Herr Bender.</span>
+      </p>
+      <p begin="36584.56s" end="36587.83" dur="3.27s" style="default.center" tts:direction="ltr">Lukas, ähm, er hat, er hatte ein Computerproblem.</p>
+      <p begin="36587.99s" end="36592.52" dur="4.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Sie haben Beide zur gleichen Zeit die Party verlassen, Herr Bender. </span>
+      </p>
+      <p begin="36592.68s" end="36595.61" dur="2.93s" style="default.center" tts:direction="ltr">Ich mach mir nichts aus Tanzen und Alkohol. </p>
+      <p begin="36595.77s" end="36601.04" dur="5.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Wenn Sie Partys nicht mögen, warum sind Sie dann überhaupt in die alte Kantine?</span>
+      </p>
+      <p begin="36601.20s" end="36605.87" dur="4.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Hätten doch schön hier in Ihrem Schrank sitzen und Musik hören können.</span>
+      </p>
+      <p begin="36606.03s" end="36608.16" dur="2.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ich lass Ihnen meine Karte hier.</span>
+      </p>
+      <p begin="36608.32s" end="36612.25" dur="3.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wenn Ihnen noch was einfällt, dann können Sie mich anrufen.</span>
+      </p>
+      <p begin="36612.41s" end="36614.88" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ich leg die Karte hier auf den Tisch.</span>
+      </p>
+      <p begin="36615.04s" end="36616.54" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Vielen Dank erst mal.</span>
+      </p>
+      <p begin="36616.70s" end="36618.20" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Sieben Jahre.</span>
+      </p>
+      <p begin="36618.36s" end="36619.86" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ja.</span>
+      </p>
+      <p begin="36620.02s" end="36625.29" dur="5.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und dann hat er sich ne Wurstpelle gekauft und ist raus in die böse weite Welt.</span>
+      </p>
+      <p begin="36625.45s" end="36626.98" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Das hat was Tragisches.</span>
+      </p>
+      <p begin="36627.14s" end="36634.14" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Es gibt Menschen, die wegen ihrer Angst ihr gesamtes Leben in ihrem selbst geschaffenen Gefängnis verbringen.</span>
+      </p>
+      <p begin="36634.30s" end="36636.57" dur="2.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Das bekommt nur leider keiner mit.</span>
+      </p>
+      <p begin="36636.73s" end="36640.19" dur="3.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Weil sie ja quasi unsichtbar sind für ihre Umgebung.</span>
+      </p>
+      <p begin="36640.35s" end="36644.29" dur="3.93s" style="default.center" tts:direction="ltr">Ich hab mir mal den Festnetzanschluss des Opfers angesehen.</p>
+      <p begin="36644.45s" end="36649.58" dur="5.13s" style="default.center" tts:direction="ltr">Lukas Schneider hat vor einer Woche zweimal hintereinander die 110 angerufen.</p>
+      <p begin="36649.74s" end="36656.07" dur="6.33s" style="default.center" tts:direction="ltr">Beim ersten Anruf hat er direkt wieder aufgelegt, der zweite Anruf ging etwas über eine Minute.</p>
+      <p begin="36656.23s" end="36659.77" dur="3.53s" style="default.center" tts:direction="ltr">Ich hab mir den entsprechenden Anruf mal rausgesucht.</p>
+      <p begin="36659.93s" end="36661.43" dur="1.50s" style="default.center" tts:direction="ltr">Hier.</p>
+      <p begin="36661.59s" end="36663.09" dur="1.50s" style="default.center" tts:direction="ltr">Polizei.Notruf. </p>
+      <p begin="36663.25s" end="36669.51" dur="6.27s" style="default.center" tts:direction="ltr">Hallo, ähm, ich ruf an, weil äh es geht um die Sache mit dem Sprayer in Lindenau letzte Woche.</p>
+      <p begin="36669.67s" end="36671.34" dur="1.67s" style="default.center" tts:direction="ltr">Hallo, sind Sie noch da? </p>
+      <p begin="36671.50s" end="36677.83" dur="6.33s" style="default.center" tts:direction="ltr">Wir wollten nur ein bißchen Spaß haben und dann, dann hat der Typ plötzlich um sich geschlagen.</p>
+      <p begin="36677.99s" end="36679.99" dur="2.00s" style="default.center" tts:direction="ltr">Wir wollten es nicht, ehrlich.</p>
+      <p begin="36680.15s" end="36682.89" dur="2.73s" style="default.center" tts:direction="ltr">Wollen Sie eine Straftat anzeigen? Hallo?</p>
+      <p begin="36683.05s" end="36689.85" dur="6.80s" style="default.center" tts:direction="ltr">Es gab vor zwei Wochen einen Angriff auf einen Graffitti-Sprayer in der Nähe des S-Bahnhofes Lindenau.</p>
+      <p begin="36690.01s" end="36693.61" dur="3.60s" style="default.center" tts:direction="ltr">Täter unbekannt, der Sprayer liegt immer noch im Koma.</p>
+      <p begin="36693.77s" end="36698.50" dur="4.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Lukas Schneider hat von wir gesprochen. Also hatte er einen Komplizen. </span>
+      </p>
+      <p begin="36698.66s" end="36701.93" dur="3.27s" style="default.center" tts:direction="ltr">Es gibt Bilder von der Überwachungskamera. Hier. </p>
+      <p begin="36702.09s" end="36705.15" dur="3.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Lukas Schneider und sein Wurstpellenkomplize. </span>
+      </p>
+      <p begin="36705.31s" end="36708.78" dur="3.47s" style="default.center" tts:direction="ltr">Ich hab am Morphsuit von Heiko Bender was gefunden. </p>
+      <p begin="36708.94s" end="36710.44" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Rettig, hm...</span>
+      </p>
+      <p begin="36710.60s" end="36713.87" dur="3.27s" style="default.center" tts:direction="ltr">Ich konnte an beiden Handflächen Blut nachweisen.</p>
+      <p begin="36714.03s" end="36716.16" dur="2.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Das stammt von Lukas Schneider. </span>
+      </p>
+      <p begin="36716.32s" end="36718.65" dur="2.33s" style="default.center" tts:direction="ltr">Hmhm mit 99,937 % iger Sicherheit. </p>
+      <p begin="36718.81s" end="36720.88" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Okay. Ich hol Heiko ab. Allein.</span>
+      </p>
+      <p begin="36721.04s" end="36722.54" dur="1.50s" style="default.center" tts:direction="ltr">Ey guck mal, hm. </p>
+      <p begin="36722.70s" end="36724.43" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Alles okay soweit für Sie?</span>
+      </p>
+      <p begin="36724.59s" end="36728.26" dur="3.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wir werden als erstes eine Gegenüberstellung vornehmen.</span>
+      </p>
+      <p begin="36728.42s" end="36732.09" dur="3.67s" style="default.center" tts:direction="ltr">Ich wart hier auf dem Gang ja? Aber ich geh nicht weg. </p>
+      <p begin="36732.25s" end="36733.75" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Lassen Sie sich Zeit.</span>
+      </p>
+      <p begin="36733.91s" end="36736.04" dur="2.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Das ist doch Zeitverschwendung. </span>
+      </p>
+      <p begin="36736.20s" end="36738.27" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Jetzt warte doch erst  mal ab. </span>
+      </p>
+      <p begin="36738.43s" end="36740.29" dur="1.87s" style="default.center" tts:direction="ltr">Die Nummer vier. Die war's. </p>
+      <p begin="36740.45s" end="36741.95" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Sind Sie da sicher? </span>
+      </p>
+      <p begin="36742.11s" end="36743.78" dur="1.67s" style="default.center" tts:direction="ltr">Na ja, es war ja dunkel. </p>
+      <p begin="36743.94s" end="36747.07" dur="3.13s" style="default.center" tts:direction="ltr">Soll ich uns heute Abend was kochen? Lammcurry?</p>
+      <p begin="36747.23s" end="36748.73" dur="1.50s" style="default.center" tts:direction="ltr">Gekocht wird morgen.</p>
+      <p begin="36748.89s" end="36752.69" dur="3.80s" style="default.center" tts:direction="ltr">Ich zeig dir heut Abend erst mal, was in Leipzig so geht.</p>
+      <p begin="36752.85s" end="36754.99" dur="2.13s" style="default.center" tts:direction="ltr">Und die Damen? Wie seh ich aus? </p>
+      <p begin="36755.15s" end="36756.65" dur="1.50s" style="default.center" tts:direction="ltr">Sehr grün.</p>
+      <p begin="36756.81s" end="36760.41" dur="3.60s" style="default.center" tts:direction="ltr">Ja, super – steht Ihnen, sollten Sie häufiger tragen. </p>
+      <p begin="36760.57s" end="36762.07" dur="1.50s" style="default.center" tts:direction="ltr">Danke. </p>
+      <p begin="36762.23s" end="36763.73" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Hey.</span>
+      </p>
+      <p begin="36763.89s" end="36765.39" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Anine.</span>
+      </p>
+      <p begin="36765.55s" end="36767.05" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und?</span>
+      </p>
+      <p begin="36767.21s" end="36771.67" dur="4.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Kümmert sich Olivia auch gut um dich, oder soll ich das übernehmen?</span>
+      </p>
+      <p begin="36771.83s" end="36775.83" dur="4.00s" style="default.center" tts:direction="ltr">Ich glaub nicht, dass wir deine Hilfe brauchen, aber Danke. </p>
+      <p begin="36775.99s" end="36779.39" dur="3.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Was bist'n so ruppig? Äh darf ich dir was abnehmen?</span>
+      </p>
+      <p begin="36779.55s" end="36781.05" dur="1.50s" style="default.center" tts:direction="ltr">Nee. Geht.</p>
+      <p begin="36781.21s" end="36788.21" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Beinah hätt ich mich für euch auch in so ne Wurstpelle gezwängt, aber Rettig war so scharf drauf, das wollt ich ihm nicht nehmen.</span>
+      </p>
+      <p begin="36788.37s" end="36791.57" dur="3.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Außerdem 100 Prozent Spandex Made in Bangladesh.</span>
+      </p>
+      <p begin="36791.73s" end="36793.47" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Da macht mein Deo schlapp.</span>
+      </p>
+      <p begin="36793.63s" end="36795.13" dur="1.50s" style="default.center" tts:direction="ltr">Hm.</p>
+      <p begin="36795.29s" end="36798.22" dur="2.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">So was tragen deutsche Männer nur, wenn sie.</span>
+      </p>
+      <p begin="36798.38s" end="36799.88" dur="1.50s" style="default.center" tts:direction="ltr">Ich wart im Büro. </p>
+      <p begin="36800.04s" end="36802.37" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Hab ich jetzt was Falsches gesagt? </span>
+      </p>
+      <p begin="36802.53s" end="36804.13" dur="1.60s" style="default.center" tts:direction="ltr">Würde dich das wundern? </p>
+      <p begin="36804.29s" end="36806.96" dur="2.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Jetzt heißt es wieder, ich bin Rassist. </span>
+      </p>
+      <p begin="36807.12s" end="36811.72" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hhhhhhh – oh Entschuldigung, das, das ist mir jetzt so rausgerutscht.</span>
+      </p>
+      <p begin="36811.88s" end="36813.38" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hm.</span>
+      </p>
+      <p begin="36813.54s" end="36815.04" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hhhhhhhhhh.</span>
+      </p>
+      <p begin="36815.20s" end="36822.20" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Herr Bender, ich weiß, das ist eine fremde Umgebung für Sie, aber ich muss Sie trotzdem bitten, das Kopfteil abzunehmen.</span>
+      </p>
+      <p begin="36822.36s" end="36826.56" dur="4.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wir haben an Ihrem Morphsuit Blut von Lukas Schneider gefunden.</span>
+      </p>
+      <p begin="36826.72s" end="36828.59" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Können Sie mir das erklären?</span>
+      </p>
+      <p begin="36828.75s" end="36830.35" dur="1.60s" style="default.center" tts:direction="ltr">Ich hab Lukas gefunden. </p>
+      <p begin="36830.51s" end="36832.01" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Was ist passiert? </span>
+      </p>
+      <p begin="36832.17s" end="36834.50" dur="2.33s" style="default.center" tts:direction="ltr">Ich ähm war auf dem Weg nach Hause.</p>
+      <p begin="36834.66s" end="36839.39" dur="4.73s" style="default.center" tts:direction="ltr">Lukas lag auf der Straße, bin sofort zu ihm hin, aber er war schon tot.</p>
+      <p begin="36839.55s" end="36842.42" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Warum haben Sie nicht die Polizei gerufen? </span>
+      </p>
+      <p begin="36842.58s" end="36844.98" dur="2.40s" style="default.center" tts:direction="ltr">Weil ich nur noch nach Hause wollte.</p>
+      <p begin="36845.14s" end="36849.74" dur="4.60s" style="default.center" tts:direction="ltr">Warum sollt ich ihn denn umbringen, das ergibt doch keinen Sinn, das.</p>
+      <p begin="36849.90s" end="36853.03" dur="3.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Weil der Morphsuit Sie frei macht, Herr Bender.</span>
+      </p>
+      <p begin="36853.19s" end="36857.86" dur="4.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Sie trauen sich Dinge zu, die Sie normalerweise niemals machen würden.</span>
+      </p>
+      <p begin="36858.02s" end="36861.62" dur="3.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Zum Beispiel einen Graffitti-Sprayer zusammenschlagen.</span>
+      </p>
+      <p begin="36861.78s" end="36863.65" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Schauen Sie sich das mal an.</span>
+      </p>
+      <p begin="36863.81s" end="36865.74" dur="1.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Vielleicht erinnern Sie sich.</span>
+      </p>
+      <p begin="36865.90s" end="36869.50" dur="3.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Der Sprayer hat sich gewehrt, die Sache ist eskaliert.</span>
+      </p>
+      <p begin="36869.66s" end="36871.66" dur="2.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Was ist passiert, Herr Bender?</span>
+      </p>
+      <p begin="36871.82s" end="36873.32" dur="1.50s" style="default.center" tts:direction="ltr">...</p>
+      <p begin="36873.48s" end="36877.68" dur="4.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Hat er Lukas Schneider angegriffen, und Sie wollten ihm helfen?</span>
+      </p>
+      <p begin="36877.84s" end="36879.34" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Oder war es umgekehrt?</span>
+      </p>
+      <p begin="36879.50s" end="36881.00" dur="1.50s" style="default.center" tts:direction="ltr">Das bin ich nicht.</p>
+      <p begin="36881.16s" end="36886.49" dur="5.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Gut, dann können Sie mir sicher sagen, was Sie am Freitag vor zwei Wochen um 23.</span>
+      </p>
+      <p begin="36886.65s" end="36888.15" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">00 Uhr gemacht haben.</span>
+      </p>
+      <p begin="36888.31s" end="36891.31" dur="3.00s" style="default.center" tts:direction="ltr">Da hat ich ne Prüfung Analytic Number three. </p>
+      <p begin="36891.47s" end="36893.94" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Das fällt ihm aber ziemlich fix ein. </span>
+      </p>
+      <p begin="36894.10s" end="36899.57" dur="5.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Also ich wüsste nicht so schnell, was ich am Freitag vor zwei Wochen gemacht habe.</span>
+      </p>
+      <p begin="36899.73s" end="36901.86" dur="2.13s" style="default.center" tts:direction="ltr">Ich kann mir Zahlen gut merken. </p>
+      <p begin="36902.02s" end="36904.35" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Okay, Sie hatten also eine Prüfung.</span>
+      </p>
+      <p begin="36904.51s" end="36906.05" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Für Ihr Online-Studium.</span>
+      </p>
+      <p begin="36906.21s" end="36907.71" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Mitten in der Nacht.</span>
+      </p>
+      <p begin="36907.87s" end="36909.40" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Haben Sie dafür Zeugen?</span>
+      </p>
+      <p begin="36909.56s" end="36911.76" dur="2.20s" style="default.center" tts:direction="ltr">Professor Lübke, fragen Sie Prof.</p>
+      <p begin="36911.92s" end="36916.52" dur="4.60s" style="default.center" tts:direction="ltr">Lübke von der Mathematischen Fakultät in Leipzig, der, der war dabei.</p>
+      <p begin="36916.68s" end="36918.18" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Also gut.</span>
+      </p>
+      <p begin="36918.34s" end="36920.01" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Noch mal zurück zu Lukas.</span>
+      </p>
+      <p begin="36920.17s" end="36927.17" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">In der Nacht, als Sie ihn gefunden haben, ist Ihnen da jemand begegnet oder ist Ihnen sonst irgendetwas aufgefallen?</span>
+      </p>
+      <p begin="36927.33s" end="36928.83" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Herr Bender.</span>
+      </p>
+      <p begin="36928.99s" end="36930.49" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Herr Bender?</span>
+      </p>
+      <p begin="36930.65s" end="36932.85" dur="2.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">So kommen wir doch nicht weiter. </span>
+      </p>
+      <p begin="36933.01s" end="36934.51" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Na sag ich doch.</span>
+      </p>
+      <p begin="36934.67s" end="36936.40" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">wir können Sie beschützen.</span>
+      </p>
+      <p begin="36936.56s" end="36940.56" dur="4.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Aber dann müssen Sie uns sagen, was Sie wissen, Herr Bender.</span>
+      </p>
+      <p begin="36940.72s" end="36942.99" dur="2.27s" style="default.center" tts:direction="ltr">Der Mathe-Prof hat Heiko Benders..</p>
+      <p begin="36943.15s" end="36947.48" dur="4.33s" style="default.center" tts:direction="ltr">...Alibi bestätigt. Das Examen ging tatsächlich die halbe Nacht. </p>
+      <p begin="36947.64s" end="36950.51" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Er war also wirklich nicht bei der S-Bahn. </span>
+      </p>
+      <p begin="36950.67s" end="36954.13" dur="3.47s" style="default.center" tts:direction="ltr">Aber ich hab mir sein Internet-Profil mal angeguckt.</p>
+      <p begin="36954.29s" end="36957.36" dur="3.07s" style="default.center" tts:direction="ltr">Und da ist  mir was Interessantes aufgefallen.</p>
+      <p begin="36957.52s" end="36959.79" dur="2.27s" style="default.center" tts:direction="ltr">Heiko liked alles, was Lisa liked.</p>
+      <p begin="36959.95s" end="36963.41" dur="3.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und jetzt noch mal für die Generation VEB Robotron. </span>
+      </p>
+      <p begin="36963.57s" end="36965.07" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Witzig. </span>
+      </p>
+      <p begin="36965.23s" end="36967.23" dur="2.00s" style="default.center" tts:direction="ltr">Heiko mag alles, was Lisa mag.</p>
+      <p begin="36967.39s" end="36974.39" dur="7.00s" style="default.center" tts:direction="ltr">Das heißt, wenn Lisa ein e-book oder ein game mag, dann kauft er es sich und wenn sie von ner Band schwärmt, Zack – lädt er sich alle Alben runter und wenn sie ihr .</p>
+      <p begin="36974.55s" end="36978.02" dur="3.47s" style="default.center" tts:direction="ltr">im  Waldstraßenviertel liked, dann liked er es auch.</p>
+      <p begin="36978.18s" end="36979.85" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Er steht auf Lisa Klein. </span>
+      </p>
+      <p begin="36980.01s" end="36981.51" dur="1.50s" style="default.center" tts:direction="ltr">Aber so was von.</p>
+      <p begin="36981.67s" end="36985.13" dur="3.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Heißt – wenn er jemanden decken würde, wäre das sie.</span>
+      </p>
+      <p begin="36985.29s" end="36988.16" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Vielleicht können wir ihn darüber knacken. </span>
+      </p>
+      <p begin="36988.32s" end="36989.82" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">I like.</span>
+      </p>
+      <p begin="36989.98s" end="36994.85" dur="4.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Also, Herr Bender, wen schützen Sie, hm? Sie verheimlichen uns doch was. </span>
+      </p>
+      <p begin="36995.01s" end="36998.54" dur="3.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Herr Bender, das ist  meine Kollegin Ina Zimmermann. </span>
+      </p>
+      <p begin="36998.70s" end="37001.37" dur="2.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Sie schützen Lisa Klein, hab ich recht? </span>
+      </p>
+      <p begin="37001.53s" end="37003.03" dur="1.50s" style="default.center" tts:direction="ltr">256..</p>
+      <p begin="37003.19s" end="37006.05" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Wir wissen, dass Sie in sie verliebt sind..</span>
+      </p>
+      <p begin="37006.21s" end="37007.71" dur="1.50s" style="default.center" tts:direction="ltr">258.000...</p>
+      <p begin="37007.87s" end="37011.87" dur="4.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Also hat Lisa Klein Lukas Schneider umgebracht? Herr Bender?</span>
+      </p>
+      <p begin="37012.03s" end="37013.53" dur="1.50s" style="default.center" tts:direction="ltr">2358...2058...</p>
+      <p begin="37013.69s" end="37015.19" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Herr Bender?</span>
+      </p>
+      <p begin="37015.35s" end="37017.95" dur="2.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hat Lisa Klein Ihren Freund umgebracht?</span>
+      </p>
+      <p begin="37018.11s" end="37022.91" dur="4.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Lisa lacht über dich, weißt du , sie hält dich für nen ganz armseligen .</span>
+      </p>
+      <p begin="37023.07s" end="37026.01" dur="2.93s" style="default.center" tts:direction="ltr">Frau Lumann, ich will Frau Lumann sprechen..</p>
+      <p begin="37026.17s" end="37027.67" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">CYAN..</span>
+      </p>
+      <p begin="37027.83s" end="37029.33" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Jaja..</span>
+      </p>
+      <p begin="37029.49s" end="37034.09" dur="4.60s" style="default.center" tts:direction="ltr">Frau Lumann.Frau Lumann. Frau Lumann. Frau Lumann, bitte Frau Lumann.</p>
+      <p begin="37034.25s" end="37035.75" dur="1.50s" style="default.center" tts:direction="ltr">Heiko.</p>
+      <p begin="37035.91s" end="37037.64" dur="1.73s" style="default.center" tts:direction="ltr">Frau Lumann, Frau Lumann..</p>
+      <p begin="37037.80s" end="37039.30" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Was sollte das? </span>
+      </p>
+      <p begin="37039.46s" end="37041.86" dur="2.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Mensch Jan, der verarscht dich doch.</span>
+      </p>
+      <p begin="37042.02s" end="37044.35" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Oh ich bin so verrückt und hilflos.</span>
+      </p>
+      <p begin="37044.51s" end="37047.65" dur="3.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Der will nichts sagen und du lässt ihn einfach.</span>
+      </p>
+      <p begin="37047.81s" end="37052.94" dur="5.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Manchmal muss man den Druck einfach ein bißchen erhöhen, um weiter zu kommen.</span>
+      </p>
+      <p begin="37053.10s" end="37057.97" dur="4.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Na du bist ja auch super weiter gekommen, der hat komplett dicht gemacht.</span>
+      </p>
+      <p begin="37058.13s" end="37063.46" dur="5.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Und bei dir muss nur einer auf Psycho machen und schon kommt er mit allem durch.</span>
+      </p>
+      <p begin="37063.62s" end="37065.62" dur="2.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Habt ihr das Alibi überprüft? </span>
+      </p>
+      <p begin="37065.78s" end="37067.28" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ja.</span>
+      </p>
+      <p begin="37067.44s" end="37074.44" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Mensch, Ina, das, das Disziplinarverfahren gegen dich, Milos Baby, Damianis Tod, das ist halt alles ein bißchen heftig für dich gerade.</span>
+      </p>
+      <p begin="37074.60s" end="37076.13" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ich freu mich für Milo.</span>
+      </p>
+      <p begin="37076.29s" end="37081.09" dur="4.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Und Damiani ist nun weiß Gott nicht der erste Tote, den ich gesehen hab.</span>
+      </p>
+      <p begin="37081.25s" end="37085.85" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Du weißt, was ich meine. Du mochtest ihn, da lief was zwischen euch. </span>
+      </p>
+      <p begin="37086.01s" end="37087.51" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ja?</span>
+      </p>
+      <p begin="37087.67s" end="37089.17" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ja.</span>
+      </p>
+      <p begin="37089.33s" end="37090.93" dur="1.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ja klar, das schaff ich.</span>
+      </p>
+      <p begin="37091.09s" end="37092.59" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hmhm.</span>
+      </p>
+      <p begin="37092.75s" end="37095.75" dur="3.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Gut – in ner viertel Stunde bin ich zu Hause.</span>
+      </p>
+      <p begin="37095.91s" end="37097.41" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ja, bis gleich.</span>
+      </p>
+      <p begin="37097.57s" end="37099.07" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Tschüss.</span>
+      </p>
+      <p begin="37099.23s" end="37101.10" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ich muss nach Hause zu Paul.</span>
+      </p>
+      <p begin="37101.26s" end="37102.76" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Phhh. </span>
+      </p>
+      <p begin="37102.92s" end="37104.42" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Hallo.</span>
+      </p>
+      <p begin="37104.58s" end="37109.25" dur="4.67s" style="default.center" tts:direction="ltr">Hallo. Paulchen ist schon im Bett. Und ich muss jetzt auch direkt los.</p>
+      <p begin="37109.41s" end="37110.91" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Alles klar. </span>
+      </p>
+      <p begin="37111.07s" end="37113.00" dur="1.93s" style="default.center" tts:direction="ltr">Okay. Gut. Dann bis Freitag. </p>
+      <p begin="37113.16s" end="37114.66" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Bis Freitag.</span>
+      </p>
+      <p begin="37114.82s" end="37116.32" dur="1.50s" style="default.center" tts:direction="ltr">Tschüss.</p>
+      <p begin="37116.48s" end="37117.98" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Danke. Elisabeth. </span>
+      </p>
+      <p begin="37118.14s" end="37119.64" dur="1.50s" style="default.center" tts:direction="ltr">Hey Anin. </p>
+      <p begin="37119.80s" end="37121.30" dur="1.50s" style="default.center" tts:direction="ltr">Wo steckst'n du?</p>
+      <p begin="37121.46s" end="37123.99" dur="2.53s" style="default.center" tts:direction="ltr">Du warst gestern Abend einfach so weg.</p>
+      <p begin="37124.15s" end="37128.09" dur="3.93s" style="default.center" tts:direction="ltr">Ähm – bist wahrscheinlich mit dem süßen Schotten los, oder?</p>
+      <p begin="37128.25s" end="37131.65" dur="3.40s" style="default.center" tts:direction="ltr">Meld dich doch einfach mal kurz, wenn du Zeit hast.</p>
+      <p begin="37131.81s" end="37133.31" dur="1.50s" style="default.center" tts:direction="ltr">Bis dann.</p>
+      <p begin="37133.47s" end="37134.97" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und?</span>
+      </p>
+      <p begin="37135.13s" end="37142.13" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Deine neue Freundin und Du, schön um die Häuser gezogen und ein paar Typen in Spandex-Anzügen klar gemacht?</span>
+      </p>
+      <p begin="37142.29s" end="37146.29" dur="4.00s" style="default.center" tts:direction="ltr">Das Gute an ihnen ist, da sieht man direkt, was man bekommt.</p>
+      <p begin="37146.45s" end="37148.78" dur="2.33s" style="default.center" tts:direction="ltr">Und ist später nicht so enttäuscht.</p>
+      <p begin="37148.94s" end="37150.44" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Hhhhh.</span>
+      </p>
+      <p begin="37150.60s" end="37152.60" dur="2.00s" style="default.center" tts:direction="ltr">Also in meiner ersten Analyse.</p>
+      <p begin="37152.76s" end="37155.16" dur="2.40s" style="default.center" tts:direction="ltr">..hab ich mich darauf konzentriert..</p>
+      <p begin="37155.32s" end="37158.19" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">...Unsere Laborprinzessin noch nicht hier? </span>
+      </p>
+      <p begin="37158.35s" end="37159.85" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">MEGENTA. </span>
+      </p>
+      <p begin="37160.01s" end="37161.51" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Einmal schwarz..</span>
+      </p>
+      <p begin="37161.67s" end="37163.17" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Danke..</span>
+      </p>
+      <p begin="37163.33s" end="37165.66" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">..ohne bösen Zucker.Entschuldigung.</span>
+      </p>
+      <p begin="37165.82s" end="37168.22" dur="2.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Fahren Sie bitte fort, Herr Rettig. </span>
+      </p>
+      <p begin="37168.38s" end="37172.98" dur="4.60s" style="default.center" tts:direction="ltr">Also bei der ersten Untersuchung hab ich nur nach Blutspuren gesucht.</p>
+      <p begin="37173.14s" end="37175.67" dur="2.53s" style="default.center" tts:direction="ltr">Deswegen ist es mir nicht aufgefallen.</p>
+      <p begin="37175.83s" end="37182.83" dur="7.00s" style="default.center" tts:direction="ltr">Aber bei der neuen Analyse hab ich in Frau Kleins Morphsuit mikroskopisch kleine Farbpartikel – so genannte Nanoteilchen – gefunden.</p>
+      <p begin="37182.99s" end="37187.86" dur="4.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Das heißt äh Lisa Klein war bei dem Angriff auf den S-Bahn-Sprayer dabei?</span>
+      </p>
+      <p begin="37188.02s" end="37189.52" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Sie war die Komplizin.</span>
+      </p>
+      <p begin="37189.68s" end="37193.68" dur="4.00s" style="default.center" tts:direction="ltr">Heiko? Cooles Haus. Die ganzen Gartenzwerge da, ganz schick.</p>
+      <p begin="37193.84s" end="37195.84" dur="2.00s" style="default.center" tts:direction="ltr">A, alles noch von meiner Oma. </p>
+      <p begin="37196.00s" end="37199.20" dur="3.20s" style="default.center" tts:direction="ltr">Meine Eltern hatten auch schon mal so ne Lampe. </p>
+      <p begin="37199.36s" end="37203.76" dur="4.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Danke. Laut Mitbewohnerin ist Lisa Klein  zu Panik-Heiko gefahren.</span>
+      </p>
+      <p begin="37203.92s" end="37205.42" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Morgen.</span>
+      </p>
+      <p begin="37205.58s" end="37207.08" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Morgen. </span>
+      </p>
+      <p begin="37207.24s" end="37211.84" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ähm, das tut  mir leid wegen gestern. Das war nicht mein bester Tag. </span>
+      </p>
+      <p begin="37212.00s" end="37213.50" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Hey.</span>
+      </p>
+      <p begin="37213.66s" end="37217.46" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Schon gut. Und du hattest recht. Heiko deckt Lisa Klein. </span>
+      </p>
+      <p begin="37217.62s" end="37219.12" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Morgen Ina.</span>
+      </p>
+      <p begin="37219.28s" end="37222.95" dur="3.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Morgen. Tut mir leid, ich hab den Wecker nicht gehört. </span>
+      </p>
+      <p begin="37223.11s" end="37224.64" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">CYAN? Alles in Ordnung?</span>
+      </p>
+      <p begin="37224.80s" end="37227.87" dur="3.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ja klar, was soll denn nicht in Ordnung sein? </span>
+      </p>
+      <p begin="37228.03s" end="37229.53" dur="1.50s" style="default.center" tts:direction="ltr">Danke.</p>
+      <p begin="37229.69s" end="37233.69" dur="4.00s" style="default.center" tts:direction="ltr">Ich hab mich schon lange gefragt, wann du mich mal einlädst.</p>
+      <p begin="37233.85s" end="37236.45" dur="2.60s" style="default.center" tts:direction="ltr">Du meintest, du willst was bequatschen?</p>
+      <p begin="37236.61s" end="37238.14" dur="1.53s" style="default.center" tts:direction="ltr">Das, was du getan hast.</p>
+      <p begin="37238.30s" end="37242.63" dur="4.33s" style="default.center" tts:direction="ltr">Was hab ich getan? Krass. Mein Handy. Danke. Wo hast du das her? </p>
+      <p begin="37242.79s" end="37245.59" dur="2.80s" style="default.center" tts:direction="ltr">Das lag neben Lukas, ich hab ihn gefunden.</p>
+      <p begin="37245.75s" end="37247.25" dur="1.50s" style="default.center" tts:direction="ltr">Warst du das?</p>
+      <p begin="37247.41s" end="37249.35" dur="1.93s" style="default.center" tts:direction="ltr">Hast, hast du ihn umgebracht?</p>
+      <p begin="37249.51s" end="37251.01" dur="1.50s" style="default.center" tts:direction="ltr">Ich?</p>
+      <p begin="37251.17s" end="37252.67" dur="1.50s" style="default.center" tts:direction="ltr">Schwachsinn.</p>
+      <p begin="37252.83s" end="37255.63" dur="2.80s" style="default.center" tts:direction="ltr">Nein, das wurde mir geklaut auf der Party.</p>
+      <p begin="37255.79s" end="37257.92" dur="2.13s" style="default.center" tts:direction="ltr">Hast du das der Polizei erzählt?</p>
+      <p begin="37258.08s" end="37260.35" dur="2.27s" style="default.center" tts:direction="ltr">Dass mein Telefon neben Lukas lag?</p>
+      <p begin="37260.51s" end="37262.44" dur="1.93s" style="default.center" tts:direction="ltr">Ich fand dich auch immer gut.</p>
+      <p begin="37262.60s" end="37265.60" dur="3.00s" style="default.center" tts:direction="ltr">Auch wenn ich dein Gesicht nicht gesehen hab.</p>
+      <p begin="37265.76s" end="37268.23" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Langsam. Langsam. Langsam. Ja – mach.</span>
+      </p>
+      <p begin="37268.39s" end="37269.89" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Hallo? Herr Bender? </span>
+      </p>
+      <p begin="37270.05s" end="37271.55" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Frau Klein? </span>
+      </p>
+      <p begin="37271.71s" end="37273.21" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Frau Klein?</span>
+      </p>
+      <p begin="37273.37s" end="37275.23" dur="1.87s" style="default.center" tts:direction="ltr">Ich weiß, wie das aussieht .</p>
+      <p begin="37275.39s" end="37276.93" dur="1.53s" style="default.center" tts:direction="ltr">Aber ich war das nicht.</p>
+      <p begin="37277.09s" end="37278.89" dur="1.80s" style="default.center" tts:direction="ltr">Ich war das wirklich nicht.</p>
+      <p begin="37279.05s" end="37283.65" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Sie wissen, wie was aussieht? Wir haben doch noch gar nichts gesagt. </span>
+      </p>
+      <p begin="37283.81s" end="37285.31" dur="1.50s" style="default.center" tts:direction="ltr">Na mein Handy.</p>
+      <p begin="37285.47s" end="37292.47" dur="7.00s" style="default.center" tts:direction="ltr">Deshalb bin ich ja jetzt hier, Sie wissen von meinem Handy und jetzt denken Sie, dass ich Lukas ermordet hab.</p>
+      <p begin="37292.63s" end="37294.23" dur="1.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Was denn für ein Handy? </span>
+      </p>
+      <p begin="37294.39s" end="37297.52" dur="3.13s" style="default.center" tts:direction="ltr">Mein Handy, was Heiko neben Lukas gefunden hat.</p>
+      <p begin="37297.68s" end="37302.41" dur="4.73s" style="default.center" tts:direction="ltr">Ich hab ihn nicht umgebracht, mein Telefon wurde auf der Party geklaut.</p>
+      <p begin="37302.57s" end="37304.07" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Das Handy.</span>
+      </p>
+      <p begin="37304.23s" end="37307.63" dur="3.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Das war's, was Heiko Bender nicht erzählen wollte. </span>
+      </p>
+      <p begin="37307.79s" end="37309.29" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hm.</span>
+      </p>
+      <p begin="37309.45s" end="37312.85" dur="3.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Frau Klein, Sie sind nicht wegen Ihres Handys hier.</span>
+      </p>
+      <p begin="37313.01s" end="37317.61" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Sie sind hier, weil wir an Ihrem Morphsuit Farbspuren gefunden haben.</span>
+      </p>
+      <p begin="37317.77s" end="37322.57" dur="4.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Sie waren bei dem Angriff auf dem Sprayer in Lindenau dabei, Frau Klein.</span>
+      </p>
+      <p begin="37322.73s" end="37324.23" dur="1.50s" style="default.center" tts:direction="ltr">Was für'n Sprayer? </p>
+      <p begin="37324.39s" end="37331.19" dur="6.80s" style="default.center" tts:direction="ltr">Thorsten, die haben sie mitgenommen, ich wei, weiss nicht, was ich machen sollte, du musst ihr helfen.</p>
+      <p begin="37331.35s" end="37335.49" dur="4.13s" style="default.center" tts:direction="ltr">Heiko, bist du das?  Wovon redest du. Wer hat wen mitgenommen?</p>
+      <p begin="37335.65s" end="37337.15" dur="1.50s" style="default.center" tts:direction="ltr">Lisa.</p>
+      <p begin="37337.31s" end="37339.51" dur="2.20s" style="default.center" tts:direction="ltr">Die Polizei hat Lisa mitgenommen.</p>
+      <p begin="37339.67s" end="37342.87" dur="3.20s" style="default.center" tts:direction="ltr">Die, die, die denken, sie  hat Lukas umgebracht.</p>
+      <p begin="37343.03s" end="37346.16" dur="3.13s" style="default.center" tts:direction="ltr">Du studierst doch Jura, du weißt doch bestimmt.</p>
+      <p begin="37346.32s" end="37349.32" dur="3.00s" style="default.center" tts:direction="ltr">Die Polizei denkt, Lisa hat Lukas umgebracht?</p>
+      <p begin="37349.48s" end="37351.41" dur="1.93s" style="default.center" tts:direction="ltr">Wie kommen die denn da drauf?</p>
+      <p begin="37351.57s" end="37354.37" dur="2.80s" style="default.center" tts:direction="ltr">Keine Ahnung. Ich hab ihr Handy gefunden. </p>
+      <p begin="37354.53s" end="37356.07" dur="1.53s" style="default.center" tts:direction="ltr">Du hast es mitgenommen?</p>
+      <p begin="37356.23s" end="37359.96" dur="3.73s" style="default.center" tts:direction="ltr">Sag mal, spinnst du Heiko, du hast den Tatort verändert.</p>
+      <p begin="37360.12s" end="37363.32" dur="3.20s" style="default.center" tts:direction="ltr">Das können die dir als Mitwisserschaft auslegen.</p>
+      <p begin="37363.48s" end="37366.08" dur="2.60s" style="default.center" tts:direction="ltr">Ich will nicht, dass Lisa Ärger kriegt.</p>
+      <p begin="37366.24s" end="37367.74" dur="1.50s" style="default.center" tts:direction="ltr">Sie war das nicht.</p>
+      <p begin="37367.90s" end="37370.03" dur="2.13s" style="default.center" tts:direction="ltr">Jemand will ihr da was anhängen.</p>
+      <p begin="37370.19s" end="37374.99" dur="4.80s" style="default.center" tts:direction="ltr">Okay. Ich komm vorbei und dann reden wir weiter. Wo wohnst du noch mal? </p>
+      <p begin="37375.15s" end="37376.65" dur="1.50s" style="default.center" tts:direction="ltr">Kölitzstraße.</p>
+      <p begin="37376.81s" end="37378.31" dur="1.50s" style="default.center" tts:direction="ltr">Kölitzstraße 63.</p>
+      <p begin="37378.47s" end="37385.34" dur="6.87s" style="default.center" tts:direction="ltr">Thorsten, woher weißt du, wo das Handy war, ich hatte nicht gesagt, dass ich es am Tatort gefunden hab.</p>
+      <p begin="37385.50s" end="37388.70" dur="3.20s" style="default.center" tts:direction="ltr">Klar hast du das gesagt. Jetzt komm mal runter. </p>
+      <p begin="37388.86s" end="37393.86" dur="5.00s" style="default.center" tts:direction="ltr">Ich bin gleich da und dann bringen wir das Handy zusammen zur Polizei okay?</p>
+      <p begin="37394.02s" end="37395.52" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Sie war's nicht.</span>
+      </p>
+      <p begin="37395.68s" end="37397.21" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Sie hat kein Mordmotiv.</span>
+      </p>
+      <p begin="37397.37s" end="37400.84" dur="3.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Bei dem Angriff auf dem Sprayer war sie nicht dabei.</span>
+      </p>
+      <p begin="37401.00s" end="37403.20" dur="2.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Das war alles völlig neu für sie.</span>
+      </p>
+      <p begin="37403.36s" end="37406.83" dur="3.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Also du glaubst, dass ihr das Handy gestohlen wurde.</span>
+      </p>
+      <p begin="37406.99s" end="37408.49" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ja.</span>
+      </p>
+      <p begin="37408.65s" end="37411.25" dur="2.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Wissen wir, was für ein Handy das ist? </span>
+      </p>
+      <p begin="37411.41s" end="37412.91" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Nee.</span>
+      </p>
+      <p begin="37413.07s" end="37415.20" dur="2.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Vielleicht pink mit Ohren dran? </span>
+      </p>
+      <p begin="37415.36s" end="37418.63" dur="3.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Das ist aber ziemlich pink für nen coolen Typen. </span>
+      </p>
+      <p begin="37418.79s" end="37421.45" dur="2.67s" style="default.center" tts:direction="ltr">Polizeidirektion Leipzig, Olivia Faredi.</p>
+      <p begin="37421.61s" end="37423.11" dur="1.50s" style="default.center" tts:direction="ltr">Hallo.</p>
+      <p begin="37423.27s" end="37424.77" dur="1.50s" style="default.center" tts:direction="ltr">Anin.</p>
+      <p begin="37424.93s" end="37426.80" dur="1.87s" style="default.center" tts:direction="ltr">Bist du das, geht's dir gut?</p>
+      <p begin="37426.96s" end="37432.03" dur="5.07s" style="default.center" tts:direction="ltr">Hier, hier ist Heiko, Heiko  Bender, ich, ich muss mit Jan Maybach sprechen.</p>
+      <p begin="37432.19s" end="37434.99" dur="2.80s" style="default.center" tts:direction="ltr">Ja natürlich, ich frag mal, Moment bitte. </p>
+      <p begin="37435.15s" end="37437.41" dur="2.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Frau Klein. Nehmen Sie sich Zeit. </span>
+      </p>
+      <p begin="37437.57s" end="37439.07" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Ja. </span>
+      </p>
+      <p begin="37439.23s" end="37440.73" dur="1.50s" style="default.center" tts:direction="ltr">Ähm. Heiko Bender.</p>
+      <p begin="37440.89s" end="37442.43" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ich ruf sofort zurück. </span>
+      </p>
+      <p begin="37442.59s" end="37447.45" dur="4.87s" style="default.center" tts:direction="ltr">Tut mir leid, Herr Maybach ist gerade in ner Besprechung, aber ich könnt.</p>
+      <p begin="37447.61s" end="37449.11" dur="1.50s" style="default.center" tts:direction="ltr">Hallo?</p>
+      <p begin="37449.27s" end="37451.41" dur="2.13s" style="default.center" tts:direction="ltr">Herr Bender, sind Sie noch dran?</p>
+      <p begin="37451.57s" end="37453.77" dur="2.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ist das Ihr Handy. Ja oder Nein? </span>
+      </p>
+      <p begin="37453.93s" end="37455.53" dur="1.60s" style="default.center" tts:direction="ltr">Was hat das zu bedeuten?</p>
+      <p begin="37455.69s" end="37460.69" dur="5.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Kann es sein, dass Thorsten Eppler vor zwei Wochen Ihren Morphsuit anhatte?</span>
+      </p>
+      <p begin="37460.85s" end="37465.18" dur="4.33s" style="default.center" tts:direction="ltr">Wir haben den öfter mal vertauscht, als wir noch zusammen waren. </p>
+      <p begin="37465.34s" end="37467.27" dur="1.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wie, Sie waren mal zusammen? </span>
+      </p>
+      <p begin="37467.43s" end="37470.63" dur="3.20s" style="default.center" tts:direction="ltr">Ja. Ich hab mich aber getrennt vor zwei Wochen. </p>
+      <p begin="37470.79s" end="37472.29" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">War das am 13. Januar?</span>
+      </p>
+      <p begin="37472.45s" end="37473.95" dur="1.50s" style="default.center" tts:direction="ltr">Kann sein. </p>
+      <p begin="37474.11s" end="37479.71" dur="5.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">In der Nacht hat Lukas Schneider mit einem Komplizen den Sprayer ins Koma geprügelt.</span>
+      </p>
+      <p begin="37479.87s" end="37483.14" dur="3.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Lukas wollte zur Polizei, er wollte sich stellen.</span>
+      </p>
+      <p begin="37483.30s" end="37486.17" dur="2.87s" style="default.center" tts:direction="ltr">Und Sie glauben Thorsten war der Komplize? </p>
+      <p begin="37486.33s" end="37488.53" dur="2.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Warum haben Sie Schluss gemacht? </span>
+      </p>
+      <p begin="37488.69s" end="37493.22" dur="4.53s" style="default.center" tts:direction="ltr">Für mich war das Spaß mit diesen Morphsuits, es war einfach Quatsch.</p>
+      <p begin="37493.38s" end="37498.11" dur="4.73s" style="default.center" tts:direction="ltr">Aber Thorsten, als er den anhatte, der wurde halt zum anderen Menschen.</p>
+      <p begin="37498.27s" end="37499.81" dur="1.53s" style="default.center" tts:direction="ltr">Das war wie son Schutz.</p>
+      <p begin="37499.97s" end="37505.23" dur="5.27s" style="default.center" tts:direction="ltr">Ich mein, wo ich den am Anfang kennengelernt hab, da war der extrem vorsichtig.</p>
+      <p begin="37505.39s" end="37512.39" dur="7.00s" style="default.center" tts:direction="ltr">Hat immer Angst gehabt, jemand könnte ihn fotografieren, wenn er gerade ne Wodka-Flasche in der  Hand hält und das dann halt hochladen ins Internet.</p>
+      <p begin="37512.55s" end="37516.42" dur="3.87s" style="default.center" tts:direction="ltr">Ich meine, der will halt Top-Anwalt werden wie sein Vater.</p>
+      <p begin="37516.58s" end="37519.25" dur="2.67s" style="default.center" tts:direction="ltr">Der verteidigt Wirtschaftsbosse, Promis.</p>
+      <p begin="37519.41s" end="37526.41" dur="7.00s" style="default.center" tts:direction="ltr">Und wenn denn da so Partybilder kursieren, wie Thorsten aussieht wie ein Vollproll  schlecht für die Karriere.</p>
+      <p begin="37526.57s" end="37528.57" dur="2.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Einmal im Netz, immer im Netz.</span>
+      </p>
+      <p begin="37528.73s" end="37532.73" dur="4.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FFFF">Und da ist er dann auf die Idee mit den Morphsuits gekommen.</span>
+      </p>
+      <p begin="37532.89s" end="37536.89" dur="4.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Keiner konnte ihn sehen, keiner konnte Fotos von ihm posten.</span>
+      </p>
+      <p begin="37537.05s" end="37539.98" dur="2.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Er konnte mal so richtig die Sau rauslassen.</span>
+      </p>
+      <p begin="37540.14s" end="37547.14" dur="7.00s" style="default.center" tts:direction="ltr">Na ja Thorsten geilt sich halt auch gerne daran auf, wie schlau er ist, dass er immer einen Trick findet, ne Lücke im Gesetz.</p>
+      <p begin="37547.30s" end="37549.03" dur="1.73s" style="default.center" tts:direction="ltr">Dass ihm niemand was kann.</p>
+      <p begin="37549.19s" end="37550.69" dur="1.50s" style="default.center" tts:direction="ltr">...</p>
+      <p begin="37550.85s" end="37556.79" dur="5.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Das ist die Mailbox von Jan Maybach, bitte hinterlassen Sie eine Nachricht nach dem Piep.</span>
+      </p>
+      <p begin="37556.95s" end="37558.75" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Bringt Thorsten Eppler her.</span>
+      </p>
+      <p begin="37558.91s" end="37560.41" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und dann?</span>
+      </p>
+      <p begin="37560.57s" end="37563.17" dur="2.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Wir haben nichts gegen ihn in der Hand.</span>
+      </p>
+      <p begin="37563.33s" end="37566.26" dur="2.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Der lässt sich nicht so leicht verunsichern.</span>
+      </p>
+      <p begin="37566.42s" end="37569.35" dur="2.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Den müssten wir schon inflagranti erwischen.</span>
+      </p>
+      <p begin="37569.51s" end="37571.18" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Warte mal, das ist Heiko.</span>
+      </p>
+      <p begin="37571.34s" end="37575.27" dur="3.93s" style="default.center" tts:direction="ltr">Thorsten steht vor meiner Tür, er, er hat Lukas umgebracht.</p>
+      <p begin="37575.43s" end="37576.93" dur="1.50s" style="default.center" tts:direction="ltr">Kommen Sie schnell.</p>
+      <p begin="37577.09s" end="37579.56" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Verdammt. Na los, worauf wartet ihr. </span>
+      </p>
+      <p begin="37579.72s" end="37581.22" dur="1.50s" style="default.center" tts:direction="ltr">Heiko?</p>
+      <p begin="37581.38s" end="37582.88" dur="1.50s" style="default.center" tts:direction="ltr">Heiko.</p>
+      <p begin="37583.04s" end="37585.04" dur="2.00s" style="default.center" tts:direction="ltr">Hey, komm schon, was soll das.</p>
+      <p begin="37585.20s" end="37587.33" dur="2.13s" style="default.center" tts:direction="ltr">Ich will doch nur mit dir reden.</p>
+      <p begin="37587.49s" end="37588.99" dur="1.50s" style="default.center" tts:direction="ltr">Hallo Heiko.</p>
+      <p begin="37589.15s" end="37590.65" dur="1.50s" style="default.center" tts:direction="ltr">...</p>
+      <p begin="37590.81s" end="37595.21" dur="4.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">So Thorsten, das war's. Aus der Nummer kommst du nicht mehr raus. </span>
+      </p>
+      <p begin="37595.37s" end="37597.24" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Hey, Jan, das bin ich, hey. </span>
+      </p>
+      <p begin="37597.40s" end="37598.90" dur="1.50s" style="default.center" tts:direction="ltr">..</p>
+      <p begin="37599.06s" end="37600.56" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ah, Scheiße. </span>
+      </p>
+      <p begin="37600.72s" end="37602.25" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Alles klar. Alles okay?</span>
+      </p>
+      <p begin="37602.41s" end="37603.91" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Alles klar. </span>
+      </p>
+      <p begin="37604.07s" end="37608.21" dur="4.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Diesmal wird ihm sein einser Durchschnitt auch nichts nützen. </span>
+      </p>
+      <p begin="37608.37s" end="37609.87" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Was ist mit dem Arm?</span>
+      </p>
+      <p begin="37610.03s" end="37612.43" dur="2.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Oh das ist nur ein kleiner Kratzer. </span>
+      </p>
+      <p begin="37612.59s" end="37614.65" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Gute Arbeit, Jungs. Steht euch.</span>
+      </p>
+      <p begin="37614.81s" end="37616.31" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ja.</span>
+      </p>
+      <p begin="37616.47s" end="37617.97" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Schönen Abend noch. </span>
+      </p>
+      <p begin="37618.13s" end="37623.07" dur="4.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Tja, Ampelmännchen, so wie es aussieht, schuldest du mir hundert Euro, hm?</span>
+      </p>
+      <p begin="37623.23s" end="37624.73" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ja, ich weiß.</span>
+      </p>
+      <p begin="37624.89s" end="37626.39" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Hmhm. </span>
+      </p>
+      <p begin="37626.55s" end="37629.15" dur="2.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Kann ich dir das auch in Raten zahlen? </span>
+      </p>
+      <p begin="37629.31s" end="37631.11" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Hm, nee, alles auf einmal. </span>
+      </p>
+      <p begin="37631.27s" end="37632.77" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Okay.</span>
+      </p>
+      <p begin="37632.93s" end="37634.43" dur="1.50s" style="default.center" tts:direction="ltr">Hallo?</p>
+      <p begin="37634.59s" end="37636.09" dur="1.50s" style="default.center" tts:direction="ltr">Ja, das bin ich.</p>
+      <p begin="37636.25s" end="37637.75" dur="1.50s" style="default.center" tts:direction="ltr">Meine Jacke?</p>
+      <p begin="37637.91s" end="37639.97" dur="2.07s" style="default.center" tts:direction="ltr">Ähm, wo haben Sie die gefunden?</p>
+      <p begin="37640.13s" end="37642.73" dur="2.60s" style="default.center" tts:direction="ltr">Ja, ich ähm – ja, ich komm sie abholen.</p>
+      <p begin="37642.89s" end="37644.39" dur="1.50s" style="default.center" tts:direction="ltr">Danke.</p>
+      <p begin="37644.55s" end="37647.55" dur="3.00s" style="default.center" tts:direction="ltr">Rettig – ich hab ne riesengroße Bitte an Sie.</p>
+      <p begin="37647.71s" end="37652.38" dur="4.67s" style="default.center" tts:direction="ltr">Als Anin gestern Nacht aus dem Club weg ist, hatte sie meine Jacke an.</p>
+      <p begin="37652.54s" end="37659.41" dur="6.87s" style="default.center" tts:direction="ltr">Und jetzt hat jemand meine Jacke gefunden in irgendeiner Grünanlage, und ich mach mir total die Sorgen.</p>
+      <p begin="37659.57s" end="37661.57" dur="2.00s" style="default.center" tts:direction="ltr">Sie müssen Anins Handy suchen.</p>
+      <p begin="37661.73s" end="37663.23" dur="1.50s" style="default.center" tts:direction="ltr">Das ist illegal. </p>
+      <p begin="37663.39s" end="37664.89" dur="1.50s" style="default.center" tts:direction="ltr">Ich weiß.</p>
+      <p begin="37665.05s" end="37668.45" dur="3.40s" style="default.center" tts:direction="ltr">Können Sie mir trotzdem helfen ausnahmsweise bitte?</p>
+      <p begin="37668.61s" end="37671.01" dur="2.40s" style="default.center" tts:direction="ltr">Sie sind echt meine letzte Hoffnung.</p>
+      <p begin="37671.17s" end="37672.67" dur="1.50s" style="default.center" tts:direction="ltr">Bitte?</p>
+      <p begin="37672.83s" end="37675.63" dur="2.80s" style="default.center" tts:direction="ltr">SOKO Leipzig – Dialogbuch   Seite  PAGE 72</p>
+    </div>
+  </body>
+</tt>
